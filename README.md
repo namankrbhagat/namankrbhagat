@@ -1,27 +1,141 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://namankrbhagat.io)
+          
+<h1 align="center">  Hi There <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Naman Kumar Bhagat </h1>                 
+<h3 align="center">  A passionate Full Stack Developer and Problem Solving Enthusiast</h3>        
+                     
+ 💫 About Me                       
+- 🎓 I'm a Student and Web Developer.        
+- 🔭 I’m currently working on Web Development.   
+- 🌱 I’m currently learning DSA.       
+- 👯 I’m looking to collaborate with open-source enthusiasts. 
+- 🥅 2026 Goals: Learn MERN Stack, Nextjs And strengthen DSA. 
+       
+<h4 align="center">  It’s not Over, Until I WIN. 🎯</h4>  
+<br>    
+     
 
-<h1 align="center">Hi 👋, I'm Naman Kumar Bhagat</h1>
-<h3 align="center">A passionate Full Stack Developer and problem solving enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<!--   <img src="https://profile-counter.glitch.me/namankrbhagat/count.svg?" start="1000" /> -->
+<!-- </div>  -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namankrbhagat&label=Profile%20views&color=0e75b6&style=flat" alt="namankrbhagat" /> </p>
 
-- 🌱 I’m currently working on Mern Stack Projects
+## 📊 GitHub Stats:   
+    
+<div align="center">
 
-- ⚡ Fun fact **I once wrote code that accidentally triggered an infinite loop — the computer still has trust issues with me.😉**
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namankrbhagat&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namankrbhagat&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namankrbhagat&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namankrbhagat&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namankrbhagat&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=namankrbhagat&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=namankrbhagat&theme=radical">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/naman-kumar-bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naman-kumar-bhagat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/namanbhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namanbhagat" height="30" width="40" /></a>
+</div><br>   
+
+# 🏆 Trophies 
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=namankrbhagat&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+</div>
+  
+   
+### 
+
+<!-- ## :zap: My GitHub-Quine Stats 🖤
+<table align="center">
+  <tr align="center">
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=namankrbhagat">
+        <img align="center" src="https://stats.quira.sh/namankrbhagat/github?theme=dark" height="280em" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=namankrbhagat">
+        <img align="center" src="https://stats.quine.sh/namankrbhagat/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
+      </a>
+    </td>
+  </tr>
+<!--   <tr align="center">
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=namankrbhagat">
+        <img align="center" src="https://stats.quine.sh/namankrbhagat/topics-over-time?theme=dark" height="270em" alt="GitHub Topics Over Time" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=namankrbhagat">
+        <img align="center" src="https://stats.quine.sh/namankrbhagat/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
+      </a>
+    </td>
+  </tr> 
+</table> -->
+
+<div align="center">
+<!--   <img src="https://ssr-contributions-svg.vercel.app/_/namankrbhagat?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true"> -->
+</div>
+
+###
+
+<h2 align="center">📚 My Stack 📚</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</div>
+
+<h2 align="center">🎨 Frontend 🎨</h2> 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=githubactions,vite"/>
+</div>
+ 
+<h2 align="center">⚙️ Backend ⚙️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,nginx" />
+</div>
+
+<h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</div>
+<br/>
+
+###   
+<div align="left">
+  <h3 align="left">Connect with me: </h3> 
+  <p align="left">
+  <a href="www.linkedin.com/in/naman-kumar-bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem-kolte" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/NamanBhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namankrbhagat26" height="30" width="40" /></a>
+  </p> 
+</div>
+
+###
+
+## :zap: My LeetCode Stats 📊
+<h3 align="left">Leetcode Stats:</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/NamanBhagat?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
+    </td> 
+    <td>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=NamanBhagat&theme=dark&border=border&animated=true" alt="LeetCode Badges">
+    </td>
+  </tr>
+</table>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
+  <h3 align="center">Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; some of the repositories!</h3>
+</div>
+
+###
+
+<br clear="both">
+
+<p>
+<!--   <img align="center" height="200" src="https://pbs.twimg.com/media/GHmt8aEawAALf7i?format=png&name=small"  /> -->
+  <img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namankrbhagat&show_icons=true&locale=en&layout=compact" alt="namankrbhagat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namankrbhagat&show_icons=true&locale=en" alt="namankrbhagat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namankrbhagat&" alt="namankrbhagat" /></p>
+<p>
+<!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namankrbhagat&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"> -->
+</p>
