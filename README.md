@@ -21,11 +21,11 @@
     
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namankrbhagat&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namankrbhagat&theme=radical">
+<img height="158em" src="http://github-profile-summary-cards-olive-six.vercel.app/api/cards/repos-per-language?username=namankrbhagat&theme=aura_dark">
+<img height="158em" src="http://github-profile-summary-cards-olive-six.vercel.app/api/cards/stats?username=namankrbhagat&theme=aura_dark">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namankrbhagat&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namankrbhagat&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namankrbhagat&theme=radical&utcOffset=8">
+<img height="160em" src="http://github-profile-summary-cards-olive-six.vercel.app/api/cards/most-commit-language?username=namankrbhagat&theme=aura_dark">
+<img height="160em" src="http://github-profile-summary-cards-olive-six.vercel.app/api/cards/productive-time?username=namankrbhagat&theme=aura_dark&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=namankrbhagat&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=namankrbhagat&theme=radical">
 
